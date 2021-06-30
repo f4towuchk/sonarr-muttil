@@ -2,6 +2,6 @@
 {
   "name": "Sonarr",
   "description": "A Sonarr Heroku",
-  "repository": "https://github.com/l7sc1f20w/sonarr-muttil",
+  "repository": "https://github.com/f4towuchk/sonarr-muttil",
   "stack": "container"
 }
